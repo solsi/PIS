@@ -14,5 +14,7 @@ namespace psolaj00lab1PIS
 
         public void novametoda()
         { }
+        public void nesto()
+        {}
     }
 }
