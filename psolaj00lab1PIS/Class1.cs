@@ -7,5 +7,12 @@ namespace psolaj00lab1PIS
 {
     class Class1
     {
+
+        public void metodica()
+        {
+        }
+
+        public void novametoda()
+        { }
     }
 }
