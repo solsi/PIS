@@ -7,5 +7,7 @@ namespace psolaj00lab1PIS
 {
     class Class1
     {
+        public void nesto()
+        {}
     }
 }
