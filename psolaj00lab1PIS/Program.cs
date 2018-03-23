@@ -10,6 +10,7 @@ namespace psolaj00lab1PIS
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("Ajmo LoLa");
         }
     }
 }
